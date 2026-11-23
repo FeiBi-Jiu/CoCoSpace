@@ -1,0 +1,58 @@
+{
+  "elements": [
+    {
+      "elementId": 1,
+      "name": "火",
+      "colorHex": "#E8472B",
+      "attachFxPath": "Fx/Element/AttachFx",
+      "comboFx": [
+        { "elementId": 2, "fxPath": "Fx/Element/ComboFx" },
+        { "elementId": 5, "fxPath": "Fx/Element/ComboFx" },
+        { "elementId": 4, "fxPath": "Fx/Element/ComboFx" },
+        { "elementId": 6, "fxPath": "Fx/Element/ComboFx" }
+      ]
+    },
+    {
+      "elementId": 2,
+      "name": "水",
+      "colorHex": "#2F7BEF",
+      "attachFxPath": "Fx/Element/AttachFx",
+      "comboFx": [
+        { "elementId": 3, "fxPath": "Fx/Element/ComboFx" },
+        { "elementId": 6, "fxPath": "Fx/Element/ComboFx" }
+      ]
+    },
+    {
+      "elementId": 3,
+      "name": "雷",
+      "colorHex": "#F5D63D",
+      "attachFxPath": "Fx/Element/AttachFx",
+      "comboFx": [
+        { "elementId": 4, "fxPath": "Fx/Element/ComboFx" }
+      ]
+    },
+    {
+      "elementId": 4,
+      "name": "毒",
+      "colorHex": "#45C95A",
+      "attachFxPath": "Fx/Element/AttachFx",
+      "comboFx": []
+    },
+    {
+      "elementId": 5,
+      "name": "油",
+      "colorHex": "#A06A32",
+      "attachFxPath": "Fx/Element/AttachFx",
+      "comboFx": [
+        { "elementId": 6, "fxPath": "Fx/Element/ComboFx" }
+      ]
+    },
+    {
+      "elementId": 6,
+      "name": "冰",
+      "colorHex": "#5AD6E8",
+      "attachFxPath": "Fx/Element/AttachFx",
+      "comboFx": []
+    }
+  ]
+}
